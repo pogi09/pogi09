@@ -18,6 +18,8 @@ MyProject
 
 # 👋 Привет! Я Pogi
 
+Build Status Total Downloads Latest Stable Version License
+
 ---
 
 ## Обо мне
