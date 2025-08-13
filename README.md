@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ---
 
 ## Навыки
-- **Языки**: Ruby/RoR, Python, JavaScript
+- **Языки**: Ruby, Python, JavaScript
 - **Фреймворки**: RoR, Django, Pytest
 - **Инструменты**: Git, Docker, Composer
 
