@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there. I’m Pogi👋
 
 <!--
 **pogi09/pogi09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,14 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-MyProject
-
-# 👋 Привет! Я Pogi
-
-Build Status Total Downloads Latest Stable Version License
-
----
-
 ## Обо мне
 Я разработчик, увлеченный созданием и тестированим приложений с использованием современных технологий. Моя страсть — писать чистый и эффективный код.
 
